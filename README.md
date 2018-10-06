@@ -3,6 +3,7 @@ my new project
 
 Based on seed project `atomist-seeds:spring-rest`
 
+
 ## Development
 
 This project is driven using [Maven][mvn].
@@ -18,6 +19,7 @@ $ ./mvnw spring-boot:run
 ```
 
 ### Run tests
+
 
 This service comes with some rudimentary tests as a good starting
 point for writing your own.  Use the following command to execute the
